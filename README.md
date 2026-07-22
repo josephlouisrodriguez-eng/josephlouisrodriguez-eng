@@ -20,7 +20,7 @@ Lidero la remediación de vulnerabilidades y el hardening de servidores Linux y 
 ## 💼 Experiencia Laboral Destacada
 
 ### 🏦 Tech Engineer - Automation & Vulnerability Management
-*Empresa líder del sector financiero | Feb 2023 - Presente*
+*Santander Tecnologia | Feb 2023 - Presente*
 - Diseño y desarrollo de playbooks de Ansible, orquestando flotas de servidores con Ansible Automation Platform e integrando flujos en pipelines CI/CD.
 - Planificación y ejecución de upgrades de Red Hat (EOL/EUS) y hardening de servidores en entornos híbridos.
 - Remediación directa de vulnerabilidades en plataformas Linux y Windows.
