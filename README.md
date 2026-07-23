@@ -8,7 +8,7 @@
 ---
 
 ## 🚀 Perfil Profesional
-Con más de **17 años administrando entornos críticos** en banca y servicios globales (IBM, Kyndryl). Especializado en automatización con **Ansible y Ansible Automation Platform**, orquestando infraestructura híbrida on-premise y virtualizada con VMware. 
+Con más de **17 años administrando entornos críticos** en banca y servicios globales (IBM, Kyndryl & Santander Tecnologia). Especializado en automatización con **Ansible y Ansible Automation Platform**, orquestando infraestructura híbrida on-premise y virtualizada con VMware. 
 
 Lidero la remediación de vulnerabilidades y el hardening de servidores Linux y Windows junto a las áreas de Seguridad y Auditoría, priorizando criticidad y reduciendo ventanas de exposición en entornos productivos de alta sensibilidad. Impulsé la transformación de un proceso históricamente reactivo en un ciclo de remediación proactivo, estandarizado y auditable integrados en pipelines CI/CD.
 
