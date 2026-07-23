@@ -1,5 +1,5 @@
 # 👨‍💻 Jose Luis Rodriguez
-**IT Infra & Automation | Vulnerability Mgmt | Unix/Linux Admin**
+**IT Infra & Automation | Vulnerability Mgmt | Unix/Linux SysAdmin**
 
 📍 Villa Real, CABA, Argentina  
 📧 josephlouisrodriguez@gmail.com  
