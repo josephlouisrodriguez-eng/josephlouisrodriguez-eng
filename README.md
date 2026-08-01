@@ -10,9 +10,10 @@
 
 ## 🚀 Perfil Profesional
 
-Con más de **17 años administrando entornos críticos** en banca y servicios globales (IBM, Kyndryl & Santander Tecnología). Especializado en automatización con **Ansible y Ansible Automation Platform**, orquestando infraestructura híbrida on-premise y virtualizada con VMware.
-
-Lidero la remediación de vulnerabilidades y el hardening de servidores Linux y Windows junto a las áreas de Seguridad y Auditoría, priorizando criticidad y reduciendo ventanas de exposición en entornos productivos de alta sensibilidad. Impulsé la transformación de un proceso históricamente reactivo en un ciclo de remediación proactivo, estandarizado y auditable, integrado en pipelines CI/CD.
+Con mas de 17 años administrando entornos críticos en banca y servicios globales (IBM, Kyndryl, Santander). Especializado en automatización con Ansible y Ansible Automation Platform, orquestando infraestructura híbrida on-premise y virtualizada con VMware.
+Lidero la remediación de vulnerabilidades y el hardening de servidores Linux y Windows junto a las áreas de Seguridad y Auditoría, priorizando criticidad y reduciendo ventanas de exposición en entornos productivos de alta sensibilidad. Impulsé la transformación de un proceso históricamente reactivo en un ciclo de remediación proactivo, estandarizado y auditable.
+Gestiono el ciclo de vida completo de sistemas operativos, incluyendo upgrades corporativos de Red Hat (EOL/EUS) integrados en pipelines CI/CD, garantizando despliegues seguros sin afectar la operatoria. Participo activamente en comités de gestión de cambios (CAB), asegurando trazabilidad y validación en cada intervención productiva.
+Certificado IBM Technical Specialist y reconocido como IBM Mentor, combino profundidad técnica con visión de proceso y foco constante en la resiliencia operativa.
 
 ## 🛠️ Habilidades Técnicas y Competencias
 
@@ -26,11 +27,10 @@ Lidero la remediación de vulnerabilidades y el hardening de servidores Linux y 
 ### 🏦 Tech Engineer - Automation & Vulnerability Management
 *Santander Tecnología | Feb 2023 - Presente*
 
-- Diseño y desarrollo de playbooks de Ansible, orquestando flotas de servidores con Ansible Automation Platform e integrando flujos en pipelines CI/CD.
-- Planificación y ejecución de upgrades de Red Hat (EOL/EUS) y hardening de servidores en entornos híbridos (físicos y virtuales sobre VMware), con automatización end-to-end del ciclo de upgrade sin intervención manual.
-- Remediación directa de vulnerabilidades en plataformas Linux y Windows mediante soluciones automatizadas que reducen la dependencia de tareas manuales.
-- Generación de reportes automatizados de parcheo y remediación, brindando trazabilidad a Seguridad y Auditoría.
-- Coordinación con Seguridad y Auditoría y participación en comités CAB.
+Responsable de la automatización de infraestructura crítica y gestión de vulnerabilidades sobre un parque híbrido de 9.000 servidores entre Linux y Windows. Diseño y desarrollo de playbooks de Ansible y scripts en Bash y PowerShell, integrados en pipelines CI/CD y AAP, reduciendo en un 65% el tiempo de ejecución y eliminando tareas operativas repetitivas. 
+Planificación y ejecución de upgrades de Red Hat (EOL/EUS) y hardening en entornos físicos y virtuales (VMware), automatizando el ciclo end-to-end con cero intervención manual en más del 85% de las intervenciones. 
+Remediación proactiva de hallazgos de seguridad y escaneos de Qualys, resolviendo un promedio de +1.500 vulnerabilidades mensuales y alineando el cumplimiento a estándares de compliance corporativo. 
+Generación de reportes automatizados de estado de parcheo y remediación para auditoría y comités de cambio (CAB), garantizando 100% de trazabilidad técnica.
 
 ### 🌐 Unix System Administrator
 *Kyndryl | Sep 2021 - Feb 2023*
