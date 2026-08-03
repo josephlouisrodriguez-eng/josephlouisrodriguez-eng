@@ -11,7 +11,7 @@
 ## 🚀 Perfil Profesional
 
 Con mas de 17 años administrando entornos críticos en banca y servicios globales (IBM, Kyndryl, Santander). Especializado en automatización con Ansible y Ansible Automation Platform, orquestando infraestructura híbrida on-premise y virtualizada con VMware.
-Lidero la remediación de vulnerabilidades y el hardening de servidores Linux y Windows junto a las áreas de Seguridad y Auditoría, priorizando criticidad y reduciendo ventanas de exposición en entornos productivos de alta sensibilidad. Impulsé la transformación de un proceso históricamente reactivo en un ciclo de remediación proactivo, estandarizado y auditable.
+Lidero la remediación de vulnerabilidades y el hardening de servidores Linux y Windows junto a las áreas de Seguridad y Auditoría, priorizando criticidad y reduciendo ventanas de exposición en entornos productivos de alta sensibilidad. Impulsé la transformación de un proceso históricamente reactivo en un ciclo de remediación proactivo, estandarizado y auditable, reduciendo en un 65% el tiempo de ejecución de tareas operativas.
 Gestiono el ciclo de vida completo de sistemas operativos, incluyendo upgrades corporativos de Red Hat (EOL/EUS) integrados en pipelines CI/CD, garantizando despliegues seguros sin afectar la operatoria. Participo activamente en comités de gestión de cambios (CAB), asegurando trazabilidad y validación en cada intervención productiva.
 Certificado IBM Technical Specialist y reconocido como IBM Mentor, combino profundidad técnica con visión de proceso y foco constante en la resiliencia operativa.
 
@@ -20,7 +20,14 @@ Certificado IBM Technical Specialist y reconocido como IBM Mentor, combino profu
 - **Infraestructura y Sistemas:** Linux (RHEL, AIX, SUSE HANA), VMware, IBM Power (HMC/LPARS/VIOS)
 - **Automatización y Herramientas:** Ansible, Ansible Automation Platform, CI/CD Pipelines, WSUS, SCCM, TSCM, Red Hat Satellite
 - **Seguridad y Cumplimiento:** Vulnerability Management, Patch Management, Hardening Corporativo
-- **Idiomas:** Español (Nativo), Inglés (Nivel intermedio)
+- **Idiomas:** Español (Nativo), Inglés (Intermedio - Lectura técnica fluida y redacción profesional de documentación/soporte; comunicación oral elemental)
+
+## 🧩 Proyectos
+
+### Ansible Vulnerability Remediation Repository
+[github.com/josephlouisrodriguez-eng/ansible-vulnerability-remediation](https://github.com/josephlouisrodriguez-eng/ansible-vulnerability-remediation)
+
+Repositorio de ingeniería centrado en playbooks de Ansible y scripts para la automatización, hardening a escala y remediación de vulnerabilidades en entornos Linux/Windows.
 
 ## 💼 Experiencia Laboral Destacada
 
