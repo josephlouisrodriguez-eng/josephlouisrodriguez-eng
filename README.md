@@ -1,6 +1,6 @@
 # 👨‍💻 Jose Luis Rodriguez
 
-**IT Infra & Automation | Vulnerability Mgmt | Unix/Linux SysAdmin**
+**Senior Infrastructure Automation Engineer | Vulnerability Mgmt & Hardening | Ansible & AWX at Scale**
 
 📍 Villa Real, CABA, Argentina
 📧 josephlouisrodriguez@gmail.com
