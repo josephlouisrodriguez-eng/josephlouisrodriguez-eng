@@ -10,17 +10,20 @@
 
 ## 🚀 Perfil Profesional
 
-Con mas de 17 años administrando entornos críticos en banca y servicios globales (IBM, Kyndryl, Santander). Especializado en automatización con Ansible y Ansible Automation Platform, orquestando infraestructura híbrida on-premise y virtualizada con VMware.
-Lidero la remediación de vulnerabilidades y el hardening de servidores Linux y Windows junto a las áreas de Seguridad y Auditoría, priorizando criticidad y reduciendo ventanas de exposición en entornos productivos de alta sensibilidad. Impulsé la transformación de un proceso históricamente reactivo en un ciclo de remediación proactivo, estandarizado y auditable, reduciendo en un 65% el tiempo de ejecución de tareas operativas.
-Gestiono el ciclo de vida completo de sistemas operativos, incluyendo upgrades corporativos de Red Hat (EOL/EUS) integrados en pipelines CI/CD, garantizando despliegues seguros sin afectar la operatoria. Participo activamente en comités de gestión de cambios (CAB), asegurando trazabilidad y validación en cada intervención productiva.
-Certificado IBM Technical Specialist y reconocido como IBM Mentor, combino profundidad técnica con visión de proceso y foco constante en la resiliencia operativa.
+Trabajo en infraestructura desde hace más de 17 años, especializándome en automatización a escala dentro de entornos bancarios regulados en los últimos años.
+Actualmente diseño e implemento soluciones de automatización para plataformas Linux y Windows sobre un parque híbrido de 9.000 servidores en un entorno multi-datacenter. El foco de mi trabajo está en reducir la operación manual, estandarizar configuraciones y garantizar trazabilidad y cumplimiento ante Seguridad y Auditoría.
+A través de Ansible y AWX desarrollo y orquesto flujos que cubren el ciclo de vida completo de los servidores: provisión y baja de VMs, hardening, patching automático, remediación de vulnerabilidades (+1.500 mensuales vía Qualys), upgrades de Red Hat y gestión de configuraciones.
+Estas automatizaciones redujeron en un 65% los tiempos de ejecución y eliminaron la intervención manual en más del 85% de los upgrades, además de generar reportes automáticos de estado de parcheo y remediación que garantizan 100% de trazabilidad técnica para auditoría y comités CAB.
+Participo en war rooms ante incidentes críticos y en ejercicios de disaster recovery.
+Además del desarrollo técnico, soy referente en automatización, colaborando con múltiples áreas en el diseño, estandarización y adopción de Ansible como herramienta corporativa.
+Me interesa especialmente la evolución de la infraestructura hacia plataformas cada vez más automatizadas e inteligentes, sin perder de vista los estándares de seguridad y cumplimiento propios de un entorno bancario.
 
 ## 🛠️ Habilidades Técnicas y Competencias
 
 - **Infraestructura y Sistemas:** Linux (RHEL, AIX, SUSE HANA), VMware, IBM Power (HMC/LPARS/VIOS)
-- **Automatización y Herramientas:** Ansible, Ansible Automation Platform, CI/CD Pipelines, WSUS, SCCM, TSCM, Red Hat Satellite
+- **Automatización y Herramientas:** Ansible, AWX, CI/CD Pipelines, WSUS, SCCM, TSCM, Red Hat Satellite
 - **Seguridad y Cumplimiento:** Vulnerability Management, Patch Management, Hardening Corporativo
-- **Idiomas:** Español (Nativo), Inglés (Intermedio - Lectura técnica fluida y redacción profesional de documentación/soporte; comunicación oral elemental)
+- **Idiomas:** Español (Nativo), Inglés (Intermedio)
 
 ## 🧩 Proyectos
 
@@ -31,13 +34,16 @@ Repositorio de ingeniería centrado en playbooks de Ansible y scripts para la au
 
 ## 💼 Experiencia Laboral Destacada
 
-### 🏦 Tech Engineer - Automation & Vulnerability Management
+### 🏦 Tech Engineer
 *Santander Tecnología | Feb 2023 - Presente*
 
-Responsable de la automatización de infraestructura crítica y gestión de vulnerabilidades sobre un parque híbrido de 9.000 servidores entre Linux y Windows. Diseño y desarrollo de playbooks de Ansible y scripts en Bash y PowerShell, integrados en pipelines CI/CD y AAP, reduciendo en un 65% el tiempo de ejecución y eliminando tareas operativas repetitivas. 
-Planificación y ejecución de upgrades de Red Hat (EOL/EUS) y hardening en entornos físicos y virtuales (VMware), automatizando el ciclo end-to-end con cero intervención manual en más del 85% de las intervenciones. 
-Remediación proactiva de hallazgos de seguridad y escaneos de Qualys, resolviendo un promedio de +1.500 vulnerabilidades mensuales y alineando el cumplimiento a estándares de compliance corporativo. 
+Responsable de la automatización de infraestructura crítica y gestión de vulnerabilidades sobre un parque híbrido de 9.000 servidores Linux y Windows en un entorno bancario regulado, multi-datacenter. Diseño y desarrollo de playbooks de Ansible y scripts en Bash y PowerShell, integrados en pipelines CI/CD, reduciendo en un 65% el tiempo de ejecución y eliminando tareas operativas repetitivas.
+Orquestación de workflows complejos en AWX para la provisión, baja y gestión del ciclo de vida completo de servidores, integrando plataformas de virtualización para administración de recursos, snapshots y configuración de VMs.
+Planificación y ejecución de upgrades de Red Hat (EOL/EUS) y hardening en entornos físicos y virtuales (VMware), automatizando el ciclo end-to-end con cero intervención manual en más del 85% de las intervenciones.
+Remediación proactiva de hallazgos de seguridad y escaneos de Qualys, resolviendo un promedio de +1.500 vulnerabilidades mensuales y alineando el cumplimiento a estándares de compliance corporativo.
 Generación de reportes automatizados de estado de parcheo y remediación para auditoría y comités de cambio (CAB), garantizando 100% de trazabilidad técnica.
+Referente técnico en automatización, colaborando con múltiples áreas en el diseño, estandarización y adopción de Ansible como herramienta corporativa.
+Participación en war rooms ante incidentes críticos y en ejercicios de disaster recovery, aportando soporte técnico en la resolución y restauración de servicios.
 
 ### 🌐 Unix System Administrator
 *Kyndryl | Sep 2021 - Feb 2023*
