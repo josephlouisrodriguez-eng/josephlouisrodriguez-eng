@@ -34,8 +34,11 @@ Repositorio de ingeniería centrado en playbooks de Ansible y scripts para la au
 
 ## 💼 Experiencia Laboral Destacada
 
+### 🏦 Analista de Plataforma de Seguridad
+*Grupo Petersen | Oct 2026 - Presente*
+
 ### 🏦 Tech Engineer
-*Santander Tecnología | Feb 2023 - Presente*
+*Santander Tecnología | Feb 2023 - Jul 2026*
 
 Responsable de la automatización de infraestructura crítica y gestión de vulnerabilidades sobre un parque híbrido de 9.000 servidores Linux y Windows en un entorno bancario regulado, multi-datacenter. Diseño y desarrollo de playbooks de Ansible y scripts en Bash y PowerShell, integrados en pipelines CI/CD, reduciendo en un 65% el tiempo de ejecución y eliminando tareas operativas repetitivas.
 Orquestación de workflows complejos en AWX para la provisión, baja y gestión del ciclo de vida completo de servidores, integrando plataformas de virtualización para administración de recursos, snapshots y configuración de VMs.
